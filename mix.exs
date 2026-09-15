@@ -4,7 +4,7 @@ defmodule TableauDevServer.MixProject do
   def project do
     [
       app: :tableau_dev_server,
-      version: "0.0.1",
+      version: "0.1.0",
       elixir: "~> 1.18",
       start_permanent: Mix.env() == :prod,
       deps: deps()
