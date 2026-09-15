@@ -5,7 +5,7 @@ defmodule TableauDevServer.MixProject do
   def project do
     [
       app: :tableau_dev_server,
-      version: "0.0.1",
+      version: "0.1.0",
       description: "Development server for Tableau",
       source_url: @source_url,
       elixir: "~> 1.17",
